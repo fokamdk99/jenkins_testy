@@ -1,5 +1,5 @@
 # EmpikPalindrome
-Simple spring boot app that determines whether a given string is a palindrome. Change1
+Simple spring boot app that determines whether a given string is a palindrome. Change2
 
 # Windows
 Follow these instructions if you work on windows.
